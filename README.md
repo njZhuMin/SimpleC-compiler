@@ -3,19 +3,19 @@ A simple C interpreter that interpretes itself.
 
 ## How to Run the Code
 
-1. clone source code `SimpleC.c` to your dir.
+1.clone source code `SimpleC.c` to your dir.
 ```bash
-git clone https:/</github.com/njZhuMin/SimpleC-compiler
+git clone https://github.com/njZhuMin/SimpleC-compiler
 ```
 
-2. Compile
+2.Compile
 ```bash
 gcc -o SimpleC SimpleC.c (you may need the -m32 option on 64-bit machines)
 ./SimpleC hello.c
 ./SimpleC -s hello.c
 ```
 
-3. Try this out
+3.Try this out
 ```bash
 ./SimpleC SimpleC.c hello.c
 ./SimpleC SimpleC.c SimpleC.c hello.
