@@ -5,7 +5,7 @@ A simple C interpreter that interpretes itself.
 
 1.clone source code `SimpleC.c` to your dir.
 ```bash
-git clone https://github.com/njZhuMin/SimpleC-compiler
+git clone https://github.com/njZhuMin/SimpleC-compiler.git
 ```
 
 2.Compile
