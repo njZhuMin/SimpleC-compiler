@@ -18,19 +18,19 @@ gcc -o SimpleC SimpleC.c (you may need the -m32 option on 64-bit machines)
 3.Try this out
 ```bash
 ./SimpleC SimpleC.c hello.c
-./SimpleC SimpleC.c SimpleC.c hello.
+./SimpleC SimpleC.c SimpleC.c hello.c
 ```
 
 # About
 
-This project is inspired by [project c4](https://github.com/rswier/c4) and is largely based on it.
+This project is inspired by [project c4](https://github.com/rswier/c4) and is mainly based on it.
 
-However, I rewrited them all to make it more understable and help myself to understand it.
+However, I rewrited them all to make the code more understable.
 
 Despite the complexity we saw in books about compiler design, writing one is not that hard. You don't need that much theory though they will help for better understanding the logic behind the code.
 
 # Tutorial
-http://sunnywr.com/blog/categories/project/SimpleC
+https://zhum.in/blog/categories/project/SimpleC
 
 # Resources
 Further Reading:
